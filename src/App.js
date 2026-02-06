@@ -14,7 +14,7 @@ function App() {
 
   let encryptedId = '';
 
-  const apiKey = 'RGAPI-53df64e0-81ea-4284-85c2-8948b41b9678'
+  const apiKey = 'YOURAPIKEY'
 
   // useEffect(() => {
   //   fetch('http://ddragon.leagueoflegends.com/cdn/12.13.1/data/en_US/champion.json')
